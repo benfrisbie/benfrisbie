@@ -1,5 +1,5 @@
-![Hello there](https://tenor.com/89k9.gif)
-### Hello there 👋
+![Hello there](https://c.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif)
+### 👋 Hello there! I'm Ben Frisbie
 <!--
 **benfrisbie/benfrisbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
