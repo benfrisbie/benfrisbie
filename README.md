@@ -12,8 +12,9 @@ If any of my projects interest you, please consider supporting me on these platf
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=PayPal&logoColor=white)](https://www.paypal.com/paypalme/benfrisbie)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/bfrisbie)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=benfrisbie&count_private=true&show_icons=true&theme=dark)
-![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=benfrisbie&theme=dark&layout=compact&langs_count=10)
+# Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=benfrisbie&count_private=true&show_icons=true&theme=dark)](https://github.com/benfrisbie)
+[![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=benfrisbie&theme=dark&layout=compact&langs_count=10)](https://github.com/benfrisbie)
 
 # Technologies
 Here are some technologies that I am actively using or familiar with.
