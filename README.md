@@ -1,6 +1,6 @@
 ![Hello there](https://c.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif)
 # I'm Ben Frisbie!
-TODO
+I'm a software developer living in the Metro Detroit region of Michigan. Currently, I'm sharping my skills in Python, Golang, Docker, Kubernetes, and Terraform.
 
 Follow me on social media.  
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/bfrisbie)
@@ -12,7 +12,8 @@ If any of my projects interest you, please consider supporting me on these platf
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=PayPal&logoColor=white)](https://www.paypal.com/paypalme/benfrisbie)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/bfrisbie)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=benfrisbie&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=benfrisbie&count_private=true&show_icons=true&theme=dark)
+![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=benfrisbie&theme=dark&layout=compact&langs_count=10)
 
 # Technologies
 Here are some technologies that I am actively using or familiar with.
