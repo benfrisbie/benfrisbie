@@ -1,6 +1,6 @@
 ![Hello there](https://c.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif)
 # I'm Ben Frisbie!
-I'm a software developer living in the Metro Detroit region of Michigan. Currently, I'm sharping my skills in Python, Golang, Docker, Kubernetes, and Terraform.
+I'm a software developer living in the Metro Detroit region of Michigan. Currently, I'm sharpening my skills in Python, Golang, Docker, Kubernetes, and Terraform.
 
 Follow me on social media.  
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/bfrisbie)
