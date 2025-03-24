@@ -3,8 +3,6 @@
 I'm a software developer living in the Metro Detroit region of Michigan. Currently, I'm sharpening my skills in Python, Golang, Docker, Kubernetes, and Terraform.
 
 Follow me on social media.  
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/bfrisbie)
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCRYrVtGYLJ8lzWwERQPN0Xw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ben-frisbie/)
 
 If any of my projects interest you, please consider supporting me on these platforms.  
@@ -24,7 +22,6 @@ Here are some technologies that I am actively using or familiar with.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat&logo=Snyk&logoColor=white)
 
 ## Programming Languages
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -33,10 +30,6 @@ Here are some technologies that I am actively using or familiar with.
 ![Markdown](https://img.shields.io/badge/Markdown-3776AB?style=flat&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
-
-## Frameworks
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white)
 
 ## Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -71,19 +64,3 @@ Here are some technologies that I am actively using or familiar with.
 ## Hardware
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=RaspberryPi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-
-
-<!--
-**benfrisbie/benfrisbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
